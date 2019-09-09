@@ -3,7 +3,7 @@ If You are using APKtool in Linux or Windows and you get Error while using #comp
 ##### ' Apktool Don't Compile '  
 ### or
 ##### ' Apktool Don't Build '
-Try this Files and follow steps it may help you to solve your problem.
+Try these Files and follow steps it may help you to solve your problem.
 
 ### Read Full Article With Video toturial on : https://goo.gl/VLvtMx
 
@@ -26,8 +26,10 @@ Try this Files and follow steps it may help you to solve your problem.
 * Now Test it….
 
 
-### Is this helpful? If yes support us on Patreon
+### Is this helpful? If yes, support us on Patreon
 #### https://www.patreon.com/onephin
+
+### If isn't work try this : ' https://github.com/onephin/Apktool-latest '
 
 ## Follow us on:
 * Website: https://onephin.com
